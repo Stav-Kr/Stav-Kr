@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I am a physics student, with a passion for programming so I made this github to display my projects.
 <!--
 **Stav-Kr/Stav-Kr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
