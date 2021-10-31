@@ -1,5 +1,7 @@
 ### Hi there 👋
 I am a physics student, with a passion for programming so I made this github account to store my projects.
+
+https://github-readme-stats.vercel.app/api?username=Stav-Kr&show_icons=true
 <!--
 **Stav-Kr/Stav-Kr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
