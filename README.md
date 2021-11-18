@@ -2,9 +2,9 @@
 I am a physics student, with a passion for programming so I made this github account to store my projects.
 
 #### Languages & Tools:
-<p align="left">
+
   <img src="{https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen}"/>
-</p>
+
 
 <!--![Stav-Kr's GitHub stats](https://github-readme-stats.vercel.app/api?username=Stav-Kr&show_icons=true)
 <!--
