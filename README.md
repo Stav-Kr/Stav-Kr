@@ -1,6 +1,10 @@
 ### Hi there 👋
 I am a physics student, with a passion for programming so I made this github account to store my projects.
 
+
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="stavros14" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://uk.linkedin.com/in/stavros14?trk=profile-badge">Stavros Karathanasis</a></div>
+              
+
 <!--![Stav-Kr's GitHub stats](https://github-readme-stats.vercel.app/api?username=Stav-Kr&show_icons=true)
 <!--
 **Stav-Kr/Stav-Kr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
