@@ -3,8 +3,18 @@ I am a physics student, with a passion for programming so I made this github acc
 
 #### Languages & Tools:
 
-  <img src="{https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen}"/>
+<p align='left'>
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" /> <!--Python-->
+  <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" /> <!--numpy-->
+  <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" /> <!--pandas-->
+  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /> <!--sklearn-->
+</p>
 
+<p align='left'>
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> <!--JS-->
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <!--html-->
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <!--css-->
+</p>
 
 <!--![Stav-Kr's GitHub stats](https://github-readme-stats.vercel.app/api?username=Stav-Kr&show_icons=true)
 <!--
