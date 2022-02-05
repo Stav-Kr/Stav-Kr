@@ -22,7 +22,7 @@ I am a physics student, with a passion for programming so I made this github acc
 </p>
 
 
-[![Stavros' top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Stav-Kr&theme=black-green&layout=compact)](https://github.com/Stav-Kr/github-readme-stats)
+[![Stavros' top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Stav-Kr&theme=blue-green&layout=compact)](https://github.com/Stav-Kr/github-readme-stats)
 <!--![Stav-Kr's GitHub stats](https://github-readme-stats.vercel.app/api?username=Stav-Kr&show_icons=true)
 <!--
 **Stav-Kr/Stav-Kr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
