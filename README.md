@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am a physics student, with a passion for programming so I made this github account to store my projects.
+I am a physics student who likes programming and data so I made this github account to store my projects.
 
 #### Languages & Tools:
 
