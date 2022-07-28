@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am a physics graduate working towards a MSc in Data Science. In this github account I store mostly hobby projects and university work.
+I am a physics graduate working as a Data Science Apprentice. In this github account I store mostly hobby projects and university work.
 
 #### Languages & Tools:
 
