@@ -22,16 +22,15 @@ I am a physics graduate working as a Data Science Apprentice. In this github acc
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <!--css-->
 </p>
 
+
+
+<!--![Stav-Kr's GitHub stats](https://github-readme-stats.vercel.app/api?username=Stav-Kr&show_icons=true)
+<!--
 #### Currently learning:
 
 <p align='left'>
   <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /> <!--sklearn-->
 </p>
-
-
-[![Stavros' top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Stav-Kr&theme=blue-green&layout=compact)](https://github.com/Stav-Kr/github-readme-stats)
-<!--![Stav-Kr's GitHub stats](https://github-readme-stats.vercel.app/api?username=Stav-Kr&show_icons=true)
-<!--
 **Stav-Kr/Stav-Kr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -44,4 +43,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+[![Stavros' top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Stav-Kr&theme=blue-green&layout=compact)](https://github.com/Stav-Kr/github-readme-stats)
 -->
