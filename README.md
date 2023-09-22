@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am a physics graduate working as a Data Sciencist in the biotech industry. In this github account I store mostly personal projects and university work.
+I am a physics graduate working as a Data Scientist in the biotech industry. In this github account I store mostly personal projects and university work.
 
 #### Languages & Tools:
 
